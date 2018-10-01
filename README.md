@@ -14,17 +14,14 @@ A reporting tool that prints out reports (in plain text) based on the data in a 
 - Postgresql
 
 <b>Setup</b>
-1. Set up a new directory
-    ~~~~
-    mkdir reporting-project && cd reporting-project
-    ~~~~
-1. [Install vagrant](https://www.vagrantup.com/docs/installation/)
-2. [Install VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-3. [Download](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip) and unzip sql database into dir
-3. Clone this repository
+1. Clone this repo
     ~~~~
     git clone https://github.com/oreilm49/logs-analysis
     ~~~~
+2. [Install vagrant](https://www.vagrantup.com/docs/installation/)
+3. [Install VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+4. [Download](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip) and unzip sql database into the project directory
+5. [Download](https://github.com/udacity/fullstack-nanodegree-vm) the vagrant set up files from. Copy the Vagrantfile into the project directory.
 
 <b>Run</b>
 1. Launch Vagrant by & log in by running
