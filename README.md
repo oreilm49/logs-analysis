@@ -19,6 +19,7 @@ A reporting tool that prints out reports (in plain text) based on the data in a 
     ~~~~
 1. [Install vagrant](https://www.vagrantup.com/docs/installation/)
 2. [Install VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+3. [Download](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip) and unzip sql database into dir
 3. Clone this repository
     ~~~~
     git clone https://github.com/oreilm49/logs-analysis
