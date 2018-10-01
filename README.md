@@ -1,5 +1,6 @@
 # Log Analysis Project
-A reporting tool that prints out reports (in plain text) based on the data in a database using python.
+A reporting tool that prints out reports (in plain text) based on the data in a database using python. The project is part of the
+[Udacity Full Stack Web Developer Nanodegree](https://eu.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 
 <b>Built with</b>
 - Python 3
@@ -80,3 +81,4 @@ Three functions provide insights on the database:
 1. top3Articles() aptly named, returns the top three articles of all time.
 2. topAuthors() returns the list of article authors ranked by article views.
 3. notFoundRate() displays days where the % of page requests was above 1%.
+
