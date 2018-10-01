@@ -21,7 +21,7 @@ A reporting tool that prints out reports (in plain text) based on the data in a 
 2. [Install vagrant](https://www.vagrantup.com/docs/installation/)
 3. [Install VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 4. [Download](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip) and unzip sql database into the project directory
-5. [Download](https://github.com/udacity/fullstack-nanodegree-vm) the vagrant set up files from. Copy the Vagrantfile into the project directory.
+5. [Download](https://github.com/udacity/fullstack-nanodegree-vm) the vagrant set up files. Copy the Vagrantfile into the project directory.
 
 <b>Run</b>
 1. Launch Vagrant by & log in by running
